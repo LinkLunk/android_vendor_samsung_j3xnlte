@@ -109,7 +109,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j3xnlte/proprietary/lib/libvtmanager.so:system/lib/libvtmanager.so \
     vendor/samsung/j3xnlte/proprietary/lib/libvtstack.so:system/lib/libvtstack.so \
     vendor/samsung/j3xnlte/proprietary/lib/libengmode.so:system/lib/libengmode.so \
-    vendor/samsung/j3xnlte/proprietary/vendor/firmware/libpn548ad_fw.so:system/vendor/firmware/libpn548ad_fw.so \
-    vendor/samsung/j3xnlte/proprietary/vendor/firmware/vbc_eq:system/vendor/firmware/vbc_eq \
-    vendor/samsung/j3xnlte/proprietary/vendor/media/LMspeed_508.emd:system/vendor/media/LMspeed_508.emd \
-    vendor/samsung/j3xnlte/proprietary/vendor/media/PFFprec_600.emd:system/vendor/media/PFFprec_600.emd
+    vendor/samsung/j3xnlte/proprietary/firmware/libpn548ad_fw.so:system/firmware/libpn548ad_fw.so \
+    vendor/samsung/j3xnlte/proprietary/firmware/vbc_eq:system/firmware/vbc_eq \
+    vendor/samsung/j3xnlte/proprietary/media/LMspeed_508.emd:system/media/LMspeed_508.emd \
+    vendor/samsung/j3xnlte/proprietary/media/PFFprec_600.emd:system/media/PFFprec_600.emd
